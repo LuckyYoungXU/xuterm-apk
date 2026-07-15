@@ -1,2 +1,2 @@
 # xuterm-apk
-For apks
+Android client release repository
