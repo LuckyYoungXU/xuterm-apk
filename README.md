@@ -47,15 +47,16 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 | SSH + Enhanced Mosh | ✅ | ✅ | ✅ |
 | Native visual Tmux split & multi-window control | ✅ | ❌ | ⚠️ Subscription |
 | Built-in local TOTP 2FA | ✅ | ❌ | ⚠️ Subscription |
+| Sudo password auto-fill | ✅ | ❌ | ⚠️ Subscription |
 | Trzsz file transfer with resume | ✅ | ❌ | ❌ |
 | In-terminal PDF / image / spreadsheet preview | ✅ | ❌ | ❌ |
 | SFTP built-in text editor & file preview | ✅ | ⚠️ Limited | ⚠️ Subscription |
 | Remote file hash calculation over SSH | ✅ | ❌ | ❌ |
-| Sudo password auto-fill | ✅ | ❌ | ⚠️ Subscription |
+| Vertical color strip to separate input and output logs | ✅ | ❌ | ❌ |
 | Server monitoring + slide-to-kill processes | ✅ | ❌ | ❌ |
 | Encrypted config import/export with custom password | ✅ | ❌ | ⚠️ Subscription |
-| Free core features + one-time Pro unlock (no subscription) | ✅ | Partial IAP | Pure subscription |
 | All sensitive data stored locally & encrypted | ✅ | Partial | Partial |
+| Free core features + one-time Pro unlock (no subscription) | ✅ | Partial IAP | Pure subscription |
 
 ## 📥 Official Download Channels
 - Official Website: https://xuterm.vercel.app
