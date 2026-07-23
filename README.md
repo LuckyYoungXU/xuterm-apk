@@ -66,7 +66,7 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Appteka: https://appteka.store/user/566539
 
 ### File SHA256 Checksum
-> 17E93646A6181E92398CE5FD2A017C1F20384CB8891C5FA9AD81A2FEAA35E37F
+> v1.0.12: 17E93646A6181E92398CE5FD2A017C1F20384CB8891C5FA9AD81A2FEAA35E37F
 
 
 ## 📍 Software Directory Listings
@@ -161,7 +161,7 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
-> 17E93646A6181E92398CE5FD2A017C1F20384CB8891C5FA9AD81A2FEAA35E37F
+> v1.0.12：17E93646A6181E92398CE5FD2A017C1F20384CB8891C5FA9AD81A2FEAA35E37F
 
 ## 📍 收录平台
 - AlternativeTo：https://alternativeto.net/software/xuterm/
