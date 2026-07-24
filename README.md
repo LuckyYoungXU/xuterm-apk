@@ -67,13 +67,13 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 
 ### File SHA256 Checksum
 > v1.0.12: 17E93646A6181E92398CE5FD2A017C1F20384CB8891C5FA9AD81A2FEAA35E37F
+> v1.0.13: EA461593110444875E20E29F8E4826FABD45A4F6AD6D7F015311787B0FEEE656
 
 
 ## 📍 Software Directory Listings
 - AlternativeTo: https://alternativeto.net/software/xuterm/
 - ProductHunt: https://www.producthunt.com/posts/xuterm/
 - Saashub: https://www.saashub.com/u/xuterm
-- ToolFinder: https://toolfinder.co/tools/xuterm
 
 ## ❓ Frequently Asked Questions
 ### Will my connection data, private keys or TOTP codes be uploaded to external servers?
@@ -162,12 +162,12 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 
 ### 安装包 SHA256 校验
 > v1.0.12：17E93646A6181E92398CE5FD2A017C1F20384CB8891C5FA9AD81A2FEAA35E37F
+> v1.0.13: EA461593110444875E20E29F8E4826FABD45A4F6AD6D7F015311787B0FEEE656
 
 ## 📍 收录平台
 - AlternativeTo：https://alternativeto.net/software/xuterm/
 - ProductHunt：https://www.producthunt.com/posts/xuterm/
 - Saashub：https://www.saashub.com/u/xuterm
-- ToolFinder：https://toolfinder.co/tools/xuterm
 
 ## ❓ 常见问题
 ### 密钥、会话信息、TOTP令牌会上传到第三方服务器吗？
