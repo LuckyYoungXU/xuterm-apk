@@ -53,7 +53,7 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 | SFTP built-in text editor & file preview | ✅ | ⚠️ Limited | ⚠️ Subscription |
 | Remote file hash calculation over SSH | ✅ | ❌ | ❌ |
 | Vertical color strip to separate input and output logs | ✅ | ❌ | ❌ |
-| Server monitoring + slide-to-kill processes | ✅ | ❌ | ❌ |
+| Server monitoring + kill processes | ✅ | ❌ | ❌ |
 | Encrypted config import/export with custom password | ✅ | ❌ | ⚠️ Subscription |
 | All sensitive data stored locally & encrypted | ✅ | Partial | Partial |
 | 100% free, all features unlocked, no ads, no subscriptions, no in-app purchases | ✅ | Partial IAP | Pure subscription |
@@ -66,9 +66,7 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Appteka: https://appteka.store/user/566539
 
 ### File SHA256 Checksum
-> v1.0.12: 17E93646A6181E92398CE5FD2A017C1F20384CB8891C5FA9AD81A2FEAA35E37F
 > v1.0.13: EA461593110444875E20E29F8E4826FABD45A4F6AD6D7F015311787B0FEEE656
-
 
 ## 📍 Software Directory Listings
 - AlternativeTo: https://alternativeto.net/software/xuterm/
@@ -148,7 +146,7 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 | SFTP内置代码编辑器与文件预览 | ✅ | ⚠️ 功能受限 | ⚠️ 需要订阅 |
 | SSH远程计算文件哈希 | ✅ | ❌ | ❌ |
 | 竖向彩色条区分输入输出日志 | ✅ | ❌ | ❌ |
-| 服务器监控 + 滑动结束高负载进程 | ✅ | ❌ | ❌ |
+| 服务器监控 + 结束高负载进程 | ✅ | ❌ | ❌ |
 | 带自定义密码的加密配置导入导出 | ✅ | ❌ | ⚠️ 需要订阅 |
 | 全部敏感数据本地加密保存 | ✅ | 部分支持 | 部分支持 |
 | 完全免费，全部功能开放，无广告、无订阅、无内购 | ✅ | 部分内购 | 纯订阅制 |
@@ -161,7 +159,6 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
-> v1.0.12：17E93646A6181E92398CE5FD2A017C1F20384CB8891C5FA9AD81A2FEAA35E37F
 > v1.0.13: EA461593110444875E20E29F8E4826FABD45A4F6AD6D7F015311787B0FEEE656
 
 ## 📍 收录平台
