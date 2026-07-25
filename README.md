@@ -68,6 +68,9 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 ### File SHA256 Checksum
 > v1.0.13: EA461593110444875E20E29F8E4826FABD45A4F6AD6D7F015311787B0FEEE656
 
+### File SHA1 Checksum
+> v1.0.13: 848EEDF054A7137E8B476D20263756438B10AAC4
+
 ## 📍 Software Directory Listings
 - AlternativeTo: https://alternativeto.net/software/xuterm/
 - ProductHunt: https://www.producthunt.com/posts/xuterm/
@@ -160,6 +163,9 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 
 ### 安装包 SHA256 校验
 > v1.0.13: EA461593110444875E20E29F8E4826FABD45A4F6AD6D7F015311787B0FEEE656
+
+### 安装包 SHA1 校验
+> v1.0.13: 848EEDF054A7137E8B476D20263756438B10AAC4
 
 ## 📍 收录平台
 - AlternativeTo：https://alternativeto.net/software/xuterm/
