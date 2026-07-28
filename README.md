@@ -10,6 +10,7 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Vertical color strip to visually distinguish input/output logs inside sessions
 - Custom shortcut bar above virtual keyboard
 - Grouped saved quick commands, one-tap auto insertion
+- Quick shell snippet library with smart cursor positioning for fast command assembly
 
 ### Security & Credential Management
 - Built-in locally encrypted TOTP 2FA token manager
@@ -66,10 +67,10 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Appteka: https://appteka.store/user/566539
 
 ### File SHA256 Checksum
-> v1.0.15: 54B44C6A79D9A8DA5B46C6A3ABD4BA947772D710EB706C6DDF030D9D6413F838
+> v1.0.16: B3D8D9A17780C989AD61ABF9A09AED89ACBCEB4009EF8FF79210C17F1D966807
 
 ### File SHA1 Checksum
-> v1.0.15: 4ED6543E0C66581FAA8A9E497F017C1DF0D639E3
+> v1.0.16: DE4B1707F5C781FB1DB92A3FD64A6D6E4E3298A4
 
 ## 📍 Software Directory Listings
 - AlternativeTo: https://alternativeto.net/software/xuterm/
@@ -106,6 +107,7 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - 会话竖向彩色条直观区分输入与输出日志
 - 虚拟键盘上方可自定义快捷按键栏
 - 常用命令分组保存，点击一键自动输入
+- 快捷 Shell 片段库，智能光标定位，快速组装命令
 
 ### 安全体系
 - 内置本地加密 TOTP 双重验证码管理器
@@ -162,10 +164,10 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
-> v1.0.15: 54B44C6A79D9A8DA5B46C6A3ABD4BA947772D710EB706C6DDF030D9D6413F838
+> v1.0.16: B3D8D9A17780C989AD61ABF9A09AED89ACBCEB4009EF8FF79210C17F1D966807
 
 ### 安装包 SHA1 校验
-> v1.0.15: 4ED6543E0C66581FAA8A9E497F017C1DF0D639E3
+> v1.0.16: DE4B1707F5C781FB1DB92A3FD64A6D6E4E3298A4
 
 ## 📍 收录平台
 - AlternativeTo：https://alternativeto.net/software/xuterm/
