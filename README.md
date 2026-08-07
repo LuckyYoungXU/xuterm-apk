@@ -42,6 +42,18 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Pinch gesture to adjust terminal font size
 - Optimized for mobile phones and horizontal tablet mode
 
+### Handy Dev‑Ops Toolkit
+- SSH key generator: Generate RSA / Ed25519 key pairs
+- Secure random password generator: Generate high‑strength random passwords
+- WHOIS domain lookup: Query public domain registration info
+- DNS record lookup: Query various DNS resource records
+- SSL/TLS certificate inspector: Check HTTPS certificate status and expiry
+- Unix timestamp converter: Convert between timestamp and human‑readable time
+- Number base converter: Convert between decimal, hex and octal
+- Base64 / Hex encode‑decode: Local encoding and decoding
+- URL parser: Decompose each component of URL
+- JSON pretty formatter: Beautify JSON and detect syntax errors
+
 ## 📊 Feature Comparison with mainstream Android SSH clients
 | Function | XuTerm | JuiceSSH | Termius |
 |---|---|---|---|
@@ -67,10 +79,10 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Appteka: https://appteka.store/user/566539
 
 ### File SHA256 Checksum
-> v1.0.18: 2F135DB1842CB3234997A359891D03D0EF31792F33ED778203903A4C5457E6FC
+> v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
 ### File SHA1 Checksum
-> v1.0.18: 6222FC70B91C479643DBAAEEE530DD9C5FEC938E
+> v1.0.20: 84265AA9A8F623980E834CDF3D44B7DC41489B13
 
 ## 📍 Software Directory Listings
 - AlternativeTo: https://alternativeto.net/software/xuterm/
@@ -139,6 +151,18 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - 双指手势缩放终端字体
 - 同时适配手机竖屏、平板横屏场景
 
+### 实用工具箱
+- SSH 密钥生成器：生成 RSA、Ed25519 密钥对
+- 安全随机密码生成器：生成高强度随机密码
+- WHOIS 域名查询：查询域名公开注册信息
+- DNS 记录查询：查询各类域名解析记录
+- SSL/TLS 证书检测：检查 HTTPS 证书状态与有效期
+- Unix 时间戳转换：时间戳和可读时间互相转换
+- 进制转换：十 / 十六 / 八进制数字互转
+- Base64/Hex 编解码：本地编码解码工具
+- URL 解析工具：拆解 URL 各组成部分
+- JSON 格式化工具：JSON 文本美化与错误检测
+
 ## 📊 主流安卓SSH客户端功能对比
 | 功能 | XuTerm | JuiceSSH | Termius |
 |---|---|---|---|
@@ -164,10 +188,10 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
-> v1.0.18: 2F135DB1842CB3234997A359891D03D0EF31792F33ED778203903A4C5457E6FC
+> v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
 ### 安装包 SHA1 校验
-> v1.0.18: 6222FC70B91C479643DBAAEEE530DD9C5FEC938E
+> v1.0.20: 84265AA9A8F623980E834CDF3D44B7DC41489B13
 
 ## 📍 收录平台
 - AlternativeTo：https://alternativeto.net/software/xuterm/
