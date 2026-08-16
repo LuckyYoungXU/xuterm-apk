@@ -49,10 +49,12 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - DNS record lookup: Query various DNS resource records
 - SSL/TLS certificate inspector: Check HTTPS certificate status and expiry
 - Unix timestamp converter: Convert between timestamp and human‑readable time
-- Number base converter: Convert between decimal, hex and octal
-- Base64 / Hex encode‑decode: Local encoding and decoding
+- Common Encode‑Decode Tool, supports base64, hex, case conversion, url, unicode and utf8 encoding & decoding
 - URL parser: Decompose each component of URL
 - JSON pretty formatter: Beautify JSON and detect syntax errors
+- TCP Port Test, check connectivity of single host port
+- CIDR Subnet Calculator, quickly calculate IP subnet, netmask and address range
+- Number base converter: Convert between decimal, hex and octal
 
 ## 📊 Feature Comparison with mainstream Android SSH clients
 | Function | XuTerm | JuiceSSH | Termius |
@@ -79,9 +81,11 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Appteka: https://appteka.store/user/566539
 
 ### File SHA256 Checksum
+> v1.0.22: 5E739CFEF45C7C37107EE1EE9DF4EB5A42FBA187BBF461E6919167604D8D82A3
 > v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
 ### File SHA1 Checksum
+> v1.0.22: 79AEB61599031CB7A4DF9228D03D389505EBAAF7
 > v1.0.20: 84265AA9A8F623980E834CDF3D44B7DC41489B13
 
 ## 📍 Software Directory Listings
@@ -158,10 +162,12 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - DNS 记录查询：查询各类域名解析记录
 - SSL/TLS 证书检测：检查 HTTPS 证书状态与有效期
 - Unix 时间戳转换：时间戳和可读时间互相转换
-- 进制转换：十 / 十六 / 八进制数字互转
-- Base64/Hex 编解码：本地编码解码工具
+- 常用编解码，支持 base64、hex、大小写转换、url、unicode、utf8 编码与解码
 - URL 解析工具：拆解 URL 各组成部分
 - JSON 格式化工具：JSON 文本美化与错误检测
+- TCP 端口测试，检测单个主机端口连通性
+- CIDR 网段计算，快速计算 IP 网段、掩码、地址范围
+- 进制转换：十 / 十六 / 八进制数字互转
 
 ## 📊 主流安卓SSH客户端功能对比
 | 功能 | XuTerm | JuiceSSH | Termius |
@@ -188,9 +194,11 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
+> v1.0.22: 5E739CFEF45C7C37107EE1EE9DF4EB5A42FBA187BBF461E6919167604D8D82A3
 > v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
 ### 安装包 SHA1 校验
+> v1.0.22: 79AEB61599031CB7A4DF9228D03D389505EBAAF7
 > v1.0.20: 84265AA9A8F623980E834CDF3D44B7DC41489B13
 
 ## 📍 收录平台
