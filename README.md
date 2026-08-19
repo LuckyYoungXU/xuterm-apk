@@ -194,7 +194,7 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - GitHub发行版：https://github.com/LuckyYoungXu/tools/releases/latest
 - 华为应用市场：https://appgallery.huawei.com/app/C118106679
 - APKPure：https://apkpure.com/p/com.yongqing.xuterm
-- Uptodown: https://xuterm.en.uptodown.com/android
+- Uptodown: https://xuterm.cn.uptodown.com/android
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
