@@ -55,6 +55,8 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - TCP Port Test, check connectivity of single host port
 - CIDR Subnet Calculator, quickly calculate IP subnet, netmask and address range
 - Number base converter: Convert between decimal, hex and octal
+- Built‑in QR‑code utility for quick encode/decode operations.
+- Added ASCII tools for text conversion and formatting tasks.
 
 ## 📊 Feature Comparison with mainstream Android SSH clients
 | Function | XuTerm | JuiceSSH | Termius |
@@ -82,11 +84,15 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Appteka: https://appteka.store/user/566539
 
 ### File SHA256 Checksum
+> v1.0.23: 5628EB319F096B8A8D887D19F5F02EFC8DD01B3B194AF7DBF343B75E2E397D7E
+
 > v1.0.22: 5E739CFEF45C7C37107EE1EE9DF4EB5A42FBA187BBF461E6919167604D8D82A3
 
 > v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
 ### File SHA1 Checksum
+> v1.0.23: 1EBB2315FB4B5AC288F0B30D0366413F51451181
+
 > v1.0.22: 79AEB61599031CB7A4DF9228D03D389505EBAAF7
 
 > v1.0.20: 84265AA9A8F623980E834CDF3D44B7DC41489B13
@@ -171,6 +177,8 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - TCP 端口测试，检测单个主机端口连通性
 - CIDR 网段计算，快速计算 IP 网段、掩码、地址范围
 - 进制转换：十 / 十六 / 八进制数字互转
+- 内置二维码工具，支持快速编码与解码
+- 新增 ASCII 工具，用于文本转换与格式处理
 
 ## 📊 主流安卓SSH客户端功能对比
 | 功能 | XuTerm | JuiceSSH | Termius |
@@ -198,11 +206,15 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
+> v1.0.23: 5628EB319F096B8A8D887D19F5F02EFC8DD01B3B194AF7DBF343B75E2E397D7E
+
 > v1.0.22: 5E739CFEF45C7C37107EE1EE9DF4EB5A42FBA187BBF461E6919167604D8D82A3
 
 > v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
 ### 安装包 SHA1 校验
+> v1.0.23: 1EBB2315FB4B5AC288F0B30D0366413F51451181
+
 > v1.0.22: 79AEB61599031CB7A4DF9228D03D389505EBAAF7
 
 > v1.0.20: 84265AA9A8F623980E834CDF3D44B7DC41489B13
