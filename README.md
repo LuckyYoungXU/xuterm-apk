@@ -28,6 +28,13 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 ### File Transfer
 - Native trzsz bidirectional file transfer with resume support
 
+### Visual Ops Dashboard
+- At-a-glance system summary: ring charts for CPU / memory / disk / swap, plus CPU model, load average and real-time network throughput
+- Modular visual management for disks, systemd services, processes, network and Docker containers
+- One-tap or pull-to-refresh to fetch the latest metrics
+- Slide gesture to terminate high-load processes directly from the dashboard
+- Enter straight from the host list, no terminal commands needed
+
 ### Server Monitoring
 - Real-time server resource status monitoring
 - Slide gesture to terminate high-load running processes
@@ -71,6 +78,8 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 | Remote file hash calculation over SSH | ✅ | ❌ | ❌ |
 | Vertical color strip to separate input and output logs | ✅ | ❌ | ❌ |
 | Server monitoring + kill processes | ✅ | ❌ | ❌ |
+| Visual ops dashboard (CPU / memory / disk / swap rings, disks, services, processes, Docker) | ✅ | ❌ | ⚠️ Subscription |
+| Built-in DevOps toolkit (keygen, password, WHOIS, DNS, SSL check, encode/decode, CIDR, 15+ tools) | ✅ | ❌ | ❌ |
 | Encrypted config import/export with custom password | ✅ | ❌ | ⚠️ Subscription |
 | All sensitive data stored locally & encrypted | ✅ | Partial | Partial |
 | 100% free, all features unlocked, no ads, no subscriptions, no in-app purchases | ✅ | Partial IAP | Pure subscription |
@@ -84,6 +93,8 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Appteka: https://appteka.store/user/566539
 
 ### File SHA256 Checksum
+> v1.0.24: DA45F46223EAECD14580DA899862289855E18B660B30E14BF6004D0BA383F50F
+
 > v1.0.23: 5628EB319F096B8A8D887D19F5F02EFC8DD01B3B194AF7DBF343B75E2E397D7E
 
 > v1.0.22: 5E739CFEF45C7C37107EE1EE9DF4EB5A42FBA187BBF461E6919167604D8D82A3
@@ -91,6 +102,8 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 > v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
 ### File SHA1 Checksum
+> v1.0.24: 5D76A7BC15B10075E6AB770C40758FC4CA101664
+
 > v1.0.23: 1EBB2315FB4B5AC288F0B30D0366413F51451181
 
 > v1.0.22: 79AEB61599031CB7A4DF9228D03D389505EBAAF7
@@ -150,6 +163,13 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 ### 文件传输
 - 原生 trzsz 双向文件传输，支持断点续传
 
+### 可视化运维仪表盘
+- 系统摘要一目了然：CPU / 内存 / 磁盘 / Swap 环形进度图，CPU 型号、负载均值、实时网速
+- 模块化可视化管理：磁盘、系统服务、进程、网络、Docker 容器
+- 一键或下拉刷新，随时获取最新指标
+- 仪表盘中滑动手势直接终止高负载进程
+- 主机列表一键进入，无需记忆任何终端命令
+
 ### 服务器状态监控
 - 实时查看服务器资源负载状态
 - 滑动手势直接终止高负载进程
@@ -193,6 +213,8 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 | SSH远程计算文件哈希 | ✅ | ❌ | ❌ |
 | 竖向彩色条区分输入输出日志 | ✅ | ❌ | ❌ |
 | 服务器监控 + 结束高负载进程 | ✅ | ❌ | ❌ |
+| 可视化运维仪表盘（CPU/内存/磁盘/Swap环形图、磁盘、服务、进程、Docker） | ✅ | ❌ | ⚠️ 需要订阅 |
+| 内置运维工具箱（密钥/密码生成、WHOIS、DNS、SSL检测、编解码、网段计算等15+工具） | ✅ | ❌ | ❌ |
 | 带自定义密码的加密配置导入导出 | ✅ | ❌ | ⚠️ 需要订阅 |
 | 全部敏感数据本地加密保存 | ✅ | 部分支持 | 部分支持 |
 | 完全免费，全部功能开放，无广告、无订阅、无内购 | ✅ | 部分内购 | 纯订阅制 |
@@ -206,6 +228,8 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
+> v1.0.24: DA45F46223EAECD14580DA899862289855E18B660B30E14BF6004D0BA383F50F
+
 > v1.0.23: 5628EB319F096B8A8D887D19F5F02EFC8DD01B3B194AF7DBF343B75E2E397D7E
 
 > v1.0.22: 5E739CFEF45C7C37107EE1EE9DF4EB5A42FBA187BBF461E6919167604D8D82A3
@@ -213,6 +237,8 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 > v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
 ### 安装包 SHA1 校验
+> v1.0.24: 5D76A7BC15B10075E6AB770C40758FC4CA101664
+
 > v1.0.23: 1EBB2315FB4B5AC288F0B30D0366413F51451181
 
 > v1.0.22: 79AEB61599031CB7A4DF9228D03D389505EBAAF7
