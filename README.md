@@ -30,7 +30,7 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 
 ### Visual Ops Dashboard
 - At-a-glance system summary: ring charts for CPU / memory / disk / swap, plus CPU model, load average and real-time network throughput
-- Modular visual management for disks, systemd services, processes, network and Docker containers
+- Modular visual management for disks, systemd services, processes, network, Docker containers, firewall and scheduled tasks
 - One-tap or pull-to-refresh to fetch the latest metrics
 - Slide gesture to terminate high-load processes directly from the dashboard
 - Enter straight from the host list, no terminal commands needed
@@ -64,6 +64,8 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Number base converter: Convert between decimal, hex and octal
 - Built‑in QR‑code utility for quick encode/decode operations.
 - Added ASCII tools for text conversion and formatting tasks.
+- Added regex tester 
+- JWT parser & validator
 
 ## 📊 Feature Comparison with mainstream Android SSH clients
 | Function | XuTerm | JuiceSSH | Termius |
@@ -93,6 +95,8 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Appteka: https://appteka.store/user/566539
 
 ### File SHA256 Checksum
+> v1.0.25: 7FBB29D885BB405A954469A7D0241E49976D916D221EBCFD046E1DC85B5ED4AA
+
 > v1.0.24: DA45F46223EAECD14580DA899862289855E18B660B30E14BF6004D0BA383F50F
 
 > v1.0.23: 5628EB319F096B8A8D887D19F5F02EFC8DD01B3B194AF7DBF343B75E2E397D7E
@@ -102,6 +106,8 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 > v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
 ### File SHA1 Checksum
+> v1.0.25: B4DE881FAA71776F1ABFAC634D1E0BA6AB172A03
+
 > v1.0.24: 5D76A7BC15B10075E6AB770C40758FC4CA101664
 
 > v1.0.23: 1EBB2315FB4B5AC288F0B30D0366413F51451181
@@ -165,7 +171,7 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 
 ### 可视化运维仪表盘
 - 系统摘要一目了然：CPU / 内存 / 磁盘 / Swap 环形进度图，CPU 型号、负载均值、实时网速
-- 模块化可视化管理：磁盘、系统服务、进程、网络、Docker 容器
+- 模块化可视化管理：磁盘、系统服务、进程、网络、Docker 容器、防火墙与定时任务
 - 一键或下拉刷新，随时获取最新指标
 - 仪表盘中滑动手势直接终止高负载进程
 - 主机列表一键进入，无需记忆任何终端命令
@@ -198,7 +204,9 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - CIDR 网段计算，快速计算 IP 网段、掩码、地址范围
 - 进制转换：十 / 十六 / 八进制数字互转
 - 内置二维码工具，支持快速编码与解码
-- 新增 ASCII 工具，用于文本转换与格式处理
+- ASCII 工具，用于文本转换与格式处理
+- 正则表达式测试工具
+- JWT 解析验签工具
 
 ## 📊 主流安卓SSH客户端功能对比
 | 功能 | XuTerm | JuiceSSH | Termius |
@@ -228,6 +236,8 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
+> v1.0.25: 7FBB29D885BB405A954469A7D0241E49976D916D221EBCFD046E1DC85B5ED4AA
+
 > v1.0.24: DA45F46223EAECD14580DA899862289855E18B660B30E14BF6004D0BA383F50F
 
 > v1.0.23: 5628EB319F096B8A8D887D19F5F02EFC8DD01B3B194AF7DBF343B75E2E397D7E
@@ -237,6 +247,8 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 > v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
 ### 安装包 SHA1 校验
+> v1.0.25: B4DE881FAA71776F1ABFAC634D1E0BA6AB172A03
+
 > v1.0.24: 5D76A7BC15B10075E6AB770C40758FC4CA101664
 
 > v1.0.23: 1EBB2315FB4B5AC288F0B30D0366413F51451181
