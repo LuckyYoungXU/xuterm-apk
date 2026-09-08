@@ -80,7 +80,7 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 | Remote file hash calculation over SSH | ✅ | ❌ | ❌ |
 | Vertical color strip to separate input and output logs | ✅ | ❌ | ❌ |
 | Server monitoring + kill processes | ✅ | ❌ | ❌ |
-| Visual ops dashboard (CPU / memory / disk / swap rings, disks, services, processes, Docker) | ✅ | ❌ | ⚠️ Subscription |
+| Visual ops dashboard (CPU / memory / disk / swap rings, disks, services, processes, Docker, Firewall, crontab, rsync) | ✅ | ❌ | ⚠️ Subscription |
 | Built-in DevOps toolkit (keygen, password, WHOIS, DNS, SSL check, encode/decode, CIDR, 15+ tools) | ✅ | ❌ | ❌ |
 | Encrypted config import/export with custom password | ✅ | ❌ | ⚠️ Subscription |
 | All sensitive data stored locally & encrypted | ✅ | Partial | Partial |
@@ -225,7 +225,7 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 | SSH远程计算文件哈希 | ✅ | ❌ | ❌ |
 | 竖向彩色条区分输入输出日志 | ✅ | ❌ | ❌ |
 | 服务器监控 + 结束高负载进程 | ✅ | ❌ | ❌ |
-| 可视化运维仪表盘（CPU/内存/磁盘/Swap环形图、磁盘、服务、进程、Docker） | ✅ | ❌ | ⚠️ 需要订阅 |
+| 可视化运维仪表盘（CPU/内存/磁盘/Swap环形图、磁盘、服务、进程、Docker、防火墙、定时任务与rsync） | ✅ | ❌ | ⚠️ 需要订阅 |
 | 内置运维工具箱（密钥/密码生成、WHOIS、DNS、SSL检测、编解码、网段计算等15+工具） | ✅ | ❌ | ❌ |
 | 带自定义密码的加密配置导入导出 | ✅ | ❌ | ⚠️ 需要订阅 |
 | 全部敏感数据本地加密保存 | ✅ | 部分支持 | 部分支持 |
