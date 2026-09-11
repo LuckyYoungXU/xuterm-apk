@@ -97,6 +97,9 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 ### File SHA256 Checksum
 > v1.0.27: A855572D0CE47B4A6F9DDE14DA2A5BAB00F487B9DEB69F45977EAF029D4D83A3
 
+<details>
+<summary>Checksums for older versions (v1.0.20 – v1.0.26)</summary>
+
 > v1.0.26: F035D5B13E4365E18117AA3D7FEF532982EECED49EA44D939BC6BC9FB13B0D9C
 
 > v1.0.25: 7FBB29D885BB405A954469A7D0241E49976D916D221EBCFD046E1DC85B5ED4AA
@@ -109,8 +112,13 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 
 > v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
+</details>
+
 ### File SHA1 Checksum
 > v1.0.27: 8BF8DEDB236B1B7F15E51404A84566417B97CE1E
+
+<details>
+<summary>Checksums for older versions (v1.0.20 – v1.0.26)</summary>
 
 > v1.0.26: F9FA398F1E69E66AAF44821B9A0665445214CDDD
 
@@ -123,6 +131,8 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 > v1.0.22: 79AEB61599031CB7A4DF9228D03D389505EBAAF7
 
 > v1.0.20: 84265AA9A8F623980E834CDF3D44B7DC41489B13
+
+</details>
 
 ## 📍 Software Directory Listings
 - AlternativeTo: https://alternativeto.net/software/xuterm/
@@ -246,6 +256,9 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 ### 安装包 SHA256 校验
 > v1.0.27: A855572D0CE47B4A6F9DDE14DA2A5BAB00F487B9DEB69F45977EAF029D4D83A3
 
+<details>
+<summary>历史版本校验值（v1.0.20 – v1.0.26），点击展开</summary>
+
 > v1.0.26: F035D5B13E4365E18117AA3D7FEF532982EECED49EA44D939BC6BC9FB13B0D9C
 
 > v1.0.25: 7FBB29D885BB405A954469A7D0241E49976D916D221EBCFD046E1DC85B5ED4AA
@@ -258,8 +271,13 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 
 > v1.0.20: E93FE9AA41BA75BB29A9A6EA2CB150F803BDBA29D8BD0F6BBA7720A5B5E12D42
 
+</details>
+
 ### 安装包 SHA1 校验
 > v1.0.27: 8BF8DEDB236B1B7F15E51404A84566417B97CE1E
+
+<details>
+<summary>历史版本校验值（v1.0.20 – v1.0.26），点击展开</summary>
 
 > v1.0.26: F9FA398F1E69E66AAF44821B9A0665445214CDDD
 
@@ -272,6 +290,8 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 > v1.0.22: 79AEB61599031CB7A4DF9228D03D389505EBAAF7
 
 > v1.0.20: 84265AA9A8F623980E834CDF3D44B7DC41489B13
+
+</details>
 
 ## 📍 收录平台
 - AlternativeTo：https://alternativeto.net/software/xuterm/
