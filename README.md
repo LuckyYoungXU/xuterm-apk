@@ -30,7 +30,7 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 
 ### Visual Ops Dashboard
 - At-a-glance system summary: ring charts for CPU / memory / disk / swap, plus CPU model, load average and real-time network throughput
-- Modular visual management for disks, systemd services, processes, network, Docker containers, firewall, scheduled tasks and rsync
+- Modular visual management for disks, systemd services, processes, network, Docker containers, firewall, crontab, rsync, system logs
 - One-tap or pull-to-refresh to fetch the latest metrics
 - Slide gesture to terminate high-load processes directly from the dashboard
 - Enter straight from the host list, no terminal commands needed
@@ -95,10 +95,12 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Appteka: https://appteka.store/user/566539
 
 ### File SHA256 Checksum
-> v1.0.27: A855572D0CE47B4A6F9DDE14DA2A5BAB00F487B9DEB69F45977EAF029D4D83A3
+> v1.0.28: 218B9A01E3D8AEAE0A87D48603E76CF020CB4D58EAE3418DD645B14FF22E43F7
 
 <details>
 <summary>Checksums for older versions (v1.0.20 – v1.0.26)</summary>
+
+> v1.0.27: A855572D0CE47B4A6F9DDE14DA2A5BAB00F487B9DEB69F45977EAF029D4D83A3
 
 > v1.0.26: F035D5B13E4365E18117AA3D7FEF532982EECED49EA44D939BC6BC9FB13B0D9C
 
@@ -115,10 +117,12 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 </details>
 
 ### File SHA1 Checksum
-> v1.0.27: 8BF8DEDB236B1B7F15E51404A84566417B97CE1E
+> v1.0.28: 51BC709FF000C7365EDC1B2D1B8982A594460906
 
 <details>
 <summary>Checksums for older versions (v1.0.20 – v1.0.26)</summary>
+
+> v1.0.27: 8BF8DEDB236B1B7F15E51404A84566417B97CE1E
 
 > v1.0.26: F9FA398F1E69E66AAF44821B9A0665445214CDDD
 
@@ -189,7 +193,7 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 
 ### 可视化运维仪表盘
 - 系统摘要一目了然：CPU / 内存 / 磁盘 / Swap 环形进度图，CPU 型号、负载均值、实时网速
-- 模块化可视化管理：磁盘、系统服务、进程、网络、Docker 容器、防火墙、定时任务与rsync
+- 模块化可视化管理：磁盘、系统服务、进程、网络、Docker 容器、防火墙、定时任务、rsync、系统日志
 - 一键或下拉刷新，随时获取最新指标
 - 仪表盘中滑动手势直接终止高负载进程
 - 主机列表一键进入，无需记忆任何终端命令
@@ -254,10 +258,12 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
-> v1.0.27: A855572D0CE47B4A6F9DDE14DA2A5BAB00F487B9DEB69F45977EAF029D4D83A3
+> v1.0.28: 218B9A01E3D8AEAE0A87D48603E76CF020CB4D58EAE3418DD645B14FF22E43F7
 
 <details>
 <summary>历史版本校验值（v1.0.20 – v1.0.26），点击展开</summary>
+
+> v1.0.27: A855572D0CE47B4A6F9DDE14DA2A5BAB00F487B9DEB69F45977EAF029D4D83A3
 
 > v1.0.26: F035D5B13E4365E18117AA3D7FEF532982EECED49EA44D939BC6BC9FB13B0D9C
 
@@ -274,10 +280,12 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 </details>
 
 ### 安装包 SHA1 校验
-> v1.0.27: 8BF8DEDB236B1B7F15E51404A84566417B97CE1E
+> v1.0.28: 51BC709FF000C7365EDC1B2D1B8982A594460906
 
 <details>
 <summary>历史版本校验值（v1.0.20 – v1.0.26），点击展开</summary>
+
+> v1.0.27: 8BF8DEDB236B1B7F15E51404A84566417B97CE1E
 
 > v1.0.26: F9FA398F1E69E66AAF44821B9A0665445214CDDD
 
