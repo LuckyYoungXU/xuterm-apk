@@ -98,7 +98,7 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 > v1.0.28: 218B9A01E3D8AEAE0A87D48603E76CF020CB4D58EAE3418DD645B14FF22E43F7
 
 <details>
-<summary>Checksums for older versions (v1.0.20 – v1.0.26)</summary>
+<summary>Checksums for older versions</summary>
 
 > v1.0.27: A855572D0CE47B4A6F9DDE14DA2A5BAB00F487B9DEB69F45977EAF029D4D83A3
 
@@ -120,7 +120,7 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 > v1.0.28: 51BC709FF000C7365EDC1B2D1B8982A594460906
 
 <details>
-<summary>Checksums for older versions (v1.0.20 – v1.0.26)</summary>
+<summary>Checksums for older versions</summary>
 
 > v1.0.27: 8BF8DEDB236B1B7F15E51404A84566417B97CE1E
 
@@ -261,7 +261,7 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 > v1.0.28: 218B9A01E3D8AEAE0A87D48603E76CF020CB4D58EAE3418DD645B14FF22E43F7
 
 <details>
-<summary>历史版本校验值（v1.0.20 – v1.0.26），点击展开</summary>
+<summary>历史版本校验值，点击展开</summary>
 
 > v1.0.27: A855572D0CE47B4A6F9DDE14DA2A5BAB00F487B9DEB69F45977EAF029D4D83A3
 
@@ -283,7 +283,7 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 > v1.0.28: 51BC709FF000C7365EDC1B2D1B8982A594460906
 
 <details>
-<summary>历史版本校验值（v1.0.20 – v1.0.26），点击展开</summary>
+<summary>历史版本校验值，点击展开</summary>
 
 > v1.0.27: 8BF8DEDB236B1B7F15E51404A84566417B97CE1E
 
