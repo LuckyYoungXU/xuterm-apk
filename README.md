@@ -39,6 +39,13 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Real-time server resource status monitoring
 - Slide gesture to terminate high-load running processes
 
+### Batch Command Execution & Fleet Health Inspection (New in v1.0.29)
+- Run a command on multiple hosts at once, with multi-select by host group
+- Named task templates: save host selection together with command / inspection items, one-tap rerun anytime
+- One-tap fleet health inspection: OOM events, failed services, disk & inode usage, memory / swap, load average, exposed ports & SSH password auth, pending reboots, certificate expiry, recent error logs — per-host health cards with ✅ / ⚠️ / 🔴 verdicts
+- Result cards with one-tap copy / rerun / connect actions, status filter chips, and result export
+- Safety guards: exit confirmation while tasks are running, automatic retry on connection failure, per-item timeout protection
+
 ### Configuration Sync & Backup
 - QR-code cross-device configuration synchronization
 - Encrypted import & export of connection profiles, protected by custom password
@@ -81,6 +88,8 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 | Vertical color strip to separate input and output logs | ✅ | ❌ | ❌ |
 | Server monitoring + kill processes | ✅ | ❌ | ❌ |
 | Visual ops dashboard (CPU / memory / disk / swap rings, disks, services, processes, Docker, Firewall, crontab, rsync) | ✅ | ❌ | ⚠️ Subscription |
+| Batch command broadcast to multiple hosts | ✅ | ⚠️ Paid | ❌ |
+| One-tap multi-host health inspection with per-host report | ✅ | ❌ | ❌ |
 | Built-in DevOps toolkit (keygen, password, WHOIS, DNS, SSL check, encode/decode, CIDR, 15+ tools) | ✅ | ❌ | ❌ |
 | Encrypted config import/export with custom password | ✅ | ❌ | ⚠️ Subscription |
 | All sensitive data stored locally & encrypted | ✅ | Partial | Partial |
@@ -88,6 +97,7 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 
 ## 📥 Official Download Channels
 - Official Website: https://xuterm.vercel.app
+- Google Play: https://play.google.com/store/apps/details?id=com.yongqing.xuterm
 - GitHub Releases: https://github.com/LuckyYoungXu/tools/releases/latest
 - Huawei AppGallery: https://appgallery.huawei.com/app/C118106679
 - APKPure: https://apkpure.com/p/com.yongqing.xuterm
@@ -95,10 +105,12 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 - Appteka: https://appteka.store/user/566539
 
 ### File SHA256 Checksum
-> v1.0.28: 218B9A01E3D8AEAE0A87D48603E76CF020CB4D58EAE3418DD645B14FF22E43F7
+> v1.0.29: 137112021092CEB4C70363163617FE8F6338698ED241898BA807660B25F27F89
 
 <details>
 <summary>Checksums for older versions</summary>
+
+> v1.0.28: 218B9A01E3D8AEAE0A87D48603E76CF020CB4D58EAE3418DD645B14FF22E43F7
 
 > v1.0.27: A855572D0CE47B4A6F9DDE14DA2A5BAB00F487B9DEB69F45977EAF029D4D83A3
 
@@ -117,10 +129,12 @@ Free, privacy-first SSH & Mosh terminal for Android, built for DevOps and system
 </details>
 
 ### File SHA1 Checksum
-> v1.0.28: 51BC709FF000C7365EDC1B2D1B8982A594460906
+> v1.0.29: EAF997F1E423AC2B3B1ECAC69042EB3C47639373
 
 <details>
 <summary>Checksums for older versions</summary>
+
+> v1.0.28: 51BC709FF000C7365EDC1B2D1B8982A594460906
 
 > v1.0.27: 8BF8DEDB236B1B7F15E51404A84566417B97CE1E
 
@@ -202,6 +216,13 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - 实时查看服务器资源负载状态
 - 滑动手势直接终止高负载进程
 
+### 批量命令执行与健康巡检（v1.0.29 新增）
+- 一次向多台主机下发命令，支持按分组批量勾选主机
+- 命名任务模板：保存主机组合与命令/巡检项，随时一键重跑
+- 一键主机健康巡检：OOM 事件、异常服务、磁盘与 inode、内存/Swap、负载、公网端口与 SSH 密码认证、待重启、证书到期、近期错误日志，逐主机生成 ✅/⚠️/🔴 三色健康卡片
+- 结果卡片一键复制 / 重跑 / 连接，健康度筛选标签，支持导出结果
+- 安全防护：执行中退出需确认、连接失败自动重试、逐项超时保护
+
 ### 配置迁移与备份
 - 扫码跨设备同步主机配置
 - 支持自定义密码保护，加密导入/导出连接配置
@@ -244,6 +265,8 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 | 竖向彩色条区分输入输出日志 | ✅ | ❌ | ❌ |
 | 服务器监控 + 结束高负载进程 | ✅ | ❌ | ❌ |
 | 可视化运维仪表盘（CPU/内存/磁盘/Swap环形图、磁盘、服务、进程、Docker、防火墙、定时任务与rsync） | ✅ | ❌ | ⚠️ 需要订阅 |
+| 多主机批量命令下发 | ✅ | ⚠️ 需要付费 | ❌ |
+| 一键多主机健康巡检报告 | ✅ | ❌ | ❌ |
 | 内置运维工具箱（密钥/密码生成、WHOIS、DNS、SSL检测、编解码、网段计算等15+工具） | ✅ | ❌ | ❌ |
 | 带自定义密码的加密配置导入导出 | ✅ | ❌ | ⚠️ 需要订阅 |
 | 全部敏感数据本地加密保存 | ✅ | 部分支持 | 部分支持 |
@@ -251,6 +274,7 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 
 ## 📥 下载渠道
 - 官方网站：https://xuterm.vercel.app
+- Google Play：https://play.google.com/store/apps/details?id=com.yongqing.xuterm
 - GitHub发行版：https://github.com/LuckyYoungXu/tools/releases/latest
 - 华为应用市场：https://appgallery.huawei.com/app/C118106679
 - APKPure：https://apkpure.com/p/com.yongqing.xuterm
@@ -258,10 +282,12 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 - Appteka：https://appteka.store/user/566539
 
 ### 安装包 SHA256 校验
-> v1.0.28: 218B9A01E3D8AEAE0A87D48603E76CF020CB4D58EAE3418DD645B14FF22E43F7
+> v1.0.29: 137112021092CEB4C70363163617FE8F6338698ED241898BA807660B25F27F89
 
 <details>
 <summary>历史版本校验值，点击展开</summary>
+
+> v1.0.28: 218B9A01E3D8AEAE0A87D48603E76CF020CB4D58EAE3418DD645B14FF22E43F7
 
 > v1.0.27: A855572D0CE47B4A6F9DDE14DA2A5BAB00F487B9DEB69F45977EAF029D4D83A3
 
@@ -280,10 +306,12 @@ XuTerm 是面向 Android 的隐私优先 SSH & Mosh 终端，专为运维工程�
 </details>
 
 ### 安装包 SHA1 校验
-> v1.0.28: 51BC709FF000C7365EDC1B2D1B8982A594460906
+> v1.0.29: EAF997F1E423AC2B3B1ECAC69042EB3C47639373
 
 <details>
 <summary>历史版本校验值，点击展开</summary>
+
+> v1.0.28: 51BC709FF000C7365EDC1B2D1B8982A594460906
 
 > v1.0.27: 8BF8DEDB236B1B7F15E51404A84566417B97CE1E
 
